@@ -1,5 +1,5 @@
 
-// DOM in JS
+// DOM in JS(document object model)
 
 // console.log(document);
 // console.log(document.body);
